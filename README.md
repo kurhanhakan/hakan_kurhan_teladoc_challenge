@@ -1,9 +1,9 @@
 # hakan_kurhan_teledoc_challenge
 Cucumber BDD automation framework from scratch
 
-# You need to have Maven Builder
-# You need to have Mac OS or Windows OS
-# You need to have chrome 97 version
+* You need to have Maven Builder
+* You need to have Mac OS or Windows OS
+* You need to have chrome 97 version
 
 If you want to run the code, go to " com.teledoc.runners " package and click "TestRunner.java". Inside runner class, make a right click and click "Run As" - >" 1 JUnit File"
 
