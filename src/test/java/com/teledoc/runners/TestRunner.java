@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		
 		// we can specify which feature/features to run
-		features = "src/test/resources/features/Teledocproject.feature",
+		features = "src/test/resources/features/Teledoc.feature",
 
 		// we can specify where the code for the above feature files is located
 		glue = "com.teledoc.steps",

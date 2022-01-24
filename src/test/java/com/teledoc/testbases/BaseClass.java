@@ -36,7 +36,7 @@ public class BaseClass {
 			}
 			
 		}
-
+		
 		driver.manage().timeouts().implicitlyWait(Constants.IMPLICIT_WAIT_TIME, TimeUnit.SECONDS);
 		
 		driver.manage().window().maximize();
